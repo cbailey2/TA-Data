@@ -1,0 +1,8 @@
+Comm. Code,Country or Area,Year,Commodity,Flow,Trade (USD),Weight (kg),Quantity Name,Quantity,Comm. Code2
+10410,Afghanistan,2016,"Sheep, live",Export,6088,2339,Number of items,51,10410
+10420,Afghanistan,2016,"Goats, live",Export,3958,984,Number of items,53,10420
+10290,Albania,2016,"Bovine animals, live, except pure-bred breeding",Import,2414533,1114023,Number of items,6853,10290
+10392,Albania,2016,"Swine, live except pure-bred breeding > 50 kg",Import,14265937,9484953,Number of items,96040,10392
+10511,Albania,2016,"Fowls, live domestic < 185 grams",Import,2671732,254652,Number of items,5629138,10511
+10511,Albania,2016,"Fowls, live domestic < 185 grams",Export,87581,5320,Number of items,115180,10511
+10519,Albania,2016,"Poultry, live except domestic fowls, < 185 grams",Import,26485,2908,Number of items,64000,10519
